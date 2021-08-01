@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Hello!
 permalink: /about/
 --- 
 I'm Vinay Kudari, currently pursuing MSc in Computer Science at [SUNY Buffalo University](https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering.html). I'm very enthusiastic to learn about Machine Learning and Deep Learning techniques. 
