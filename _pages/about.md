@@ -2,10 +2,13 @@
 layout: page
 title: About Me
 permalink: /about/
----
+--- 
+I'm Vinay Kudari, currently pursuing MSc in Computer Science at [SUNY Buffalo University](https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering.html). I'm very enthusiastic to learn about Machine Learning and Deep Learning techniques. 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Previously, I was a Software Developer at [Brave Orbit](braveorbit.io) saw it grow from team of 3 to 20. Before that I worked as a Big Data Analyst at [Accenture](https://www.accenture.com/in-en/services/data-analytics-index)
+
+I graduated from [National Institute of Technology, Durgapur](http://nitdgp.ac.in/) with B.Tech in Computer Science. I worked on `Gender Classification Using Convolutional Neural Networks` thesis supervised by [Dakshina Ranjan Kisku](https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/dakshina-ranjan-kisku). I also spent good amount of time in designing flyers/posters for college festivals.
+
+To reach me, you can mail to [vinay.kudari30@gmail.com](mailto:vinay.kudari30@gmail.com). I'm also active at [Twitter](https://twitter.com/KudariVinay), [LinkedIn](https://www.linkedin.com/in/vinaykudari/) and [Medium](https://medium.com/@vinaykudari)
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
