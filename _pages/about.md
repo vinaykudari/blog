@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Hello!
 permalink: /about/
 --- 
-![Image](/images/face-mask-classifier.png)
 I'm Vinay Kudari, currently pursuing MSc in Computer Science at [SUNY Buffalo University](https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering.html). I'm very enthusiastic to learn about Machine Learning and Deep Learning techniques. 
 
 Previously, I was a Software Developer at [Brave Orbit](braveorbit.io) saw it grow from team of 3 to 20. Before that I worked as a Big Data Analyst at [Accenture](https://www.accenture.com/in-en/services/data-analytics-index)
