@@ -9,6 +9,6 @@ Previously, I was a Software Developer at [Brave Orbit](braveorbit.io) saw it gr
 
 I graduated from [National Institute of Technology, Durgapur](http://nitdgp.ac.in/) with B.Tech in Computer Science where I worked on thesis by title Gender Classification Using Convolutional Neural Networks supervised by [Dakshina Ranjan Kisku](https://nitdgp.ac.in/department/computer-science-engineering/faculty-1/dakshina-ranjan-kisku). I also spent good amount of time in designing flyers/posters for college festivals.
 
-To reach me, you can mail to [vinay.kudari30@gmail.com](mailto:vinay.kudari30@gmail.com)
+[Mail](mailto:vinay.kudari30@gmail.com) | [Twitter](https://twitter.com/KudariVinay) | [LinkedIn](https://www.linkedin.com/in/vinaykudari) | [GitHub](https://github.com/vinaykudari) | [Medium](http://medium.com/@vinaykudari)
 
 
