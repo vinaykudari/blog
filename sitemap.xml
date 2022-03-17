@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://vinaykudari.me/blog/classifier/scratch/vision/2020/09/30/American-sign-language-classifier-from-scratch.html</loc>
+<loc>https://vinaykudari.me/blog/classifier/scratch/vision/2020/09/30/American-sign-language-classifier-from-scratch-Copy1.html</loc>
 <lastmod>2020-09-30T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://vinaykudari.me/blog/ocr/text/scratch/vision/2021/03/12/Optical-character-recognition-from-scratch.html</loc>
+<lastmod>2021-03-12T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://vinaykudari.me/blog/about/</loc>
