@@ -3,11 +3,11 @@ layout: page
 title: Hello!
 permalink: /about/
 --- 
-I'm Vinay Kudari, currently pursuing MSc in Computer Science at [SUNY Buffalo University](https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering.html). I'm a technology enthusiast who has been developing software for over 5 years and professionally for over 3.5 years. I enjoy developing technical solutions for real-world problems at scale, I'm known for writing clean, maintainable code. 
+Vinay is a senior software developer hailing from the heart of Silicon Valley. His extensive skill set spans Python, JAVA, SQL and a spectrum of advanced technologies. Notably, at Gap Inc, he led the charge in crafting a low-latency LLM-based information retrieval system. Prior to this, at Amazon Web Services, he conceptualized and rolled out an internal ORM package tailored specifically for AWS Healthlake. 
 
-I am presently an intern at Sony developing PlayStation 5 backend systems. Previously, I was one of the founding engineers for a startup in its earliest stages. I have experience managing projects with vague requirements. I graduated from [National Institute of Technology, Durgapur](http://nitdgp.ac.in/) with B.Tech in Computer Science
+Throughout his career, Vinay has left an indelible mark with key contributions. This includes optimizing latency by a remarkable 60% in a feature for PS5 Explore Hub during his tenure at Playstation, and engineering a HIPAA compliant scalable push notification service for medication reminders at Brave Orbit. Armed with a robust educational background in Computer Science, including a Master's degree with a specialization in AI/ML, Vinay brings a blend of theoretical depth and hands-on expertise to the table. His research, conducted under the guidance of Prof. David Doermann at the University at Buffalo, delves into the intricacies of inconsistency between text and related images, underscoring his commitment to pioneering advancements in the field.
 
-I'm open ([Hire Me](mailto:vinay.kudari30@gmail.com)) for full time positions starting early 2023.
+ ([Mail](mailto:vinay.kudari30@gmail.com)) for resume
 
 [Mail](mailto:vinay.kudari30@gmail.com) \ [Twitter](https://twitter.com/KudariVinay) \ [LinkedIn](https://www.linkedin.com/in/vinaykudari) \ [GitHub](https://github.com/vinaykudari) \ [Medium](http://medium.com/@vinaykudari) \ [Blog](https://vinaykudari.me/blog/)
 
