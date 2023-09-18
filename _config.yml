@@ -39,10 +39,10 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: KudariVinay
-    github: vinaykudari
-    linkedin: vinaykudari
-    medium: vinaykudari
+    - { platform: github, user_url: "https://github.com/vinaykudari/" }
+    - { platform: twitter, user_url: "https://twitter.com/KudariVinay" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/vinaykudari/" }
+    - { platform: medium, user_url: "https://medium.com/@vinaykudari" }
 
 # Set this to true to get LaTeX math equation support
 use_math: 
